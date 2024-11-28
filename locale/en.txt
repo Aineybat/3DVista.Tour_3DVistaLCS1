@@ -1,0 +1,75 @@
+#: locale=en
+
+## E-Learning
+
+### Answer
+questionOption_7DAEED6F_72A8_3EB8_41D3_34AFCCBDC326.text = Kampung Kudei Lama
+questionOption_7DE290CF_72A8_07F7_41DB_D7D47089605A.text = Kampung Lama
+questionOption_7DFD7606_72A8_0A69_41CC_AD83E74D1728.text = Kampung Semerah Padi
+questionOption_63615F17_72A8_3A97_41D0_E3CB65741DED.text = Sabah
+questionOption_636F7D77_72A8_3E97_41D3_622651E4E102.text = Sarawak
+questionOption_63196919_72A8_069B_41CA_0EC1D61BFB1C.text = Selangor
+
+### Question
+question_63F534D9_72A8_0F98_41CA_EF2F8B381920.title = Can you guest where this village located at?
+question_620BA9B2_72A8_39A9_41DA_16740DB3E7B5.title = What is the name of this village?
+
+### Question Screen
+quizQuestion_7CFADF64_72A9_FAA9_41C5_8D718C2A03A1.ok = OK
+
+### Report Screen
+quizScore_7CFCBF65_72A9_FAAB_41CB_0A832553A18F.title = - SCORE -
+quizScore_7CFCBF65_72A9_FAAB_41CB_0A832553A18F.completion = Completed
+quizScore_7CFCBF65_72A9_FAAB_41CB_0A832553A18F.questionsCorrect = Correct
+quizScore_7CFCBF65_72A9_FAAB_41CB_0A832553A18F.downloadCSV = Download .csv
+quizScore_7CFCBF65_72A9_FAAB_41CB_0A832553A18F.description = GOOD JOB !
+quizScore_7CFCBF65_72A9_FAAB_41CB_0A832553A18F.questionsIncorrect = Incorrect
+quizScore_7CFCBF65_72A9_FAAB_41CB_0A832553A18F.items = Items Found
+quizScore_7CFCBF65_72A9_FAAB_41CB_0A832553A18F.questions = Questions
+quizScore_7CFCBF65_72A9_FAAB_41CB_0A832553A18F.repeat = Repeat
+quizScore_7CFCBF65_72A9_FAAB_41CB_0A832553A18F.submitToLMS = Submit
+quizScore_7CFCBF65_72A9_FAAB_41CB_0A832553A18F.elapsedTime = Time
+
+### Score Name
+score1.label = Score 1
+
+### Timeout Screen
+quizTimeout_7CFAEF64_72A9_FAA9_41D7_C298E4BCBC3C.title = - TIMEOUT -
+quizTimeout_7CFAEF64_72A9_FAA9_41D7_C298E4BCBC3C.repeat = Repeat
+quizTimeout_7CFAEF64_72A9_FAA9_41D7_C298E4BCBC3C.score = View Score
+
+## Hotspot
+
+### Text
+HotspotPanoramaOverlayTextImage_62F24D34_72A8_3EA9_418F_4C0187D1D1AE.text = Take a look around!
+HotspotPanoramaOverlayTextImage_623EEBB1_72A8_F9A8_41D5_EE84CC6C749D.text = Welcome to Kampung Kudei Lama!
+
+## Media
+
+### Image
+imlevel_61569D71_72A8_7EA8_41A5_1B53D63A8341.url = media/panorama_7E4513D2_72A8_09E9_41CB_49E88F07A9D2_HS_0xwh6zfa_en.png
+imlevel_6107ED28_72A8_7EB9_41D8_2771A66AE6FC.url = media/panorama_7E4513D2_72A8_09E9_41CB_49E88F07A9D2_HS_5kq8dq8o_en.png
+
+### Title
+panorama_7E4513D2_72A8_09E9_41CB_49E88F07A9D2.label = scene1
+
+## Skin
+
+### Multiline Text
+HTMLText_6186D2E4_72B8_0BA9_41DA_6F43EF59B9C3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B>Question :</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:21px;"><B> </B></SPAN></SPAN></DIV></div>
+HTMLText_604765D9_72B8_0998_41D0_F326B1B0932F.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B>Question :</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:21px;"><B>{{quiz.questions.answered}}/{{quiz.question.count}}</B></SPAN></SPAN></DIV></div>
+HTMLText_60C27A9E_72B8_1B98_41A9_074733FD3637.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B>Scores:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:21px;"><B>{{quiz.score}}/{{quiz.score.total}}</B></SPAN></SPAN></DIV></div>
+HTMLText_60060715_72B8_0A6B_41B0_A0ACAD2178E5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:21px;"><B>Time:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:21px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#cccccc;font-size:21px;"><B>{{quiz.time.remaining}}</B></SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = KKL(part2)
+
+## VR Menu
+
+### Text
+Menu_6399791B_72A8_069F_41D4_83B66AA480F2.label = Media
+MenuItem_6024E5A7_72A8_09B7_41AF_0221D14ED89E.label = scene1
