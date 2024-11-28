@@ -68,10 +68,3 @@ HTMLText_60060715_72B8_0A6B_41B0_A0ACAD2178E5.html = <div style="text-align:left
 
 ### Title
 tour.name = KKL(part2)
-
-## VR Menu
-
-### Text
-Menu_65B895BB_7378_099F_41D9_D92335885887.label = Media
-MenuItem_657ACA04_7378_1A69_41C9_F30FD6CEDB68.label = scene1
-MenuItem_657AFA04_7378_1A69_41C5_55F8D28EB040.label = scene2
