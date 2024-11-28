@@ -2,6 +2,18 @@
 
 ## E-Learning
 
+### Answer
+questionOption_6464875F_7368_0A98_41A5_2D846187140D.text = Brunei
+questionOption_64790932_7368_06A9_41C8_94BFBBE5F2F1.text = England
+questionOption_65927F67_736F_FAB7_41B5_FF0075E8D706.text = Kampung Kudei Lama
+questionOption_65AA5278_7368_0A99_41D4_9C25528A2FD7.text = Kampung Pisang
+questionOption_65BC7524_7368_0EA8_41D0_D3D456D828FD.text = Kampung Semerah Padi
+questionOption_6472DC53_7368_1EEF_41D0_B522E1C7B92B.text = Malaysia
+
+### Question
+question_6557D1C9_7368_09FB_41D1_0ACA84570017.title = What is the name of this village?
+question_65F025E9_7368_09B8_41DC_3190D75171E5.title = Where is this village?
+
 ### Question Screen
 quizQuestion_7CFADF64_72A9_FAA9_41C5_8D718C2A03A1.ok = OK
 
@@ -60,6 +72,6 @@ tour.name = KKL(part2)
 ## VR Menu
 
 ### Text
-Menu_6399791B_72A8_069F_41D4_83B66AA480F2.label = Media
-MenuItem_6024E5A7_72A8_09B7_41AF_0221D14ED89E.label = scene1
-MenuItem_651B0342_7368_0AE8_41D8_2DD6CE923D15.label = scene2
+Menu_65B895BB_7378_099F_41D9_D92335885887.label = Media
+MenuItem_657ACA04_7378_1A69_41C9_F30FD6CEDB68.label = scene1
+MenuItem_657AFA04_7378_1A69_41C5_55F8D28EB040.label = scene2
